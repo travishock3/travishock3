@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Daniel 🐍</h1>
+<h1 align="center">Hey, I'm Travis 🐍</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF72B6&center=true&vCenter=true&width=435&lines=Python+Learner;Anime+Lover+%F0%9F%8C%B8;Building+cool+things..." alt="Typing SVG" />
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danielrdgz097&style=flat-square&color=F7768E" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=travishock3&style=flat-square&color=F7768E" alt="Profile Views" />
 </p>
 
 ---
@@ -52,8 +52,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielrdgz097&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrdgz097&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=travishock3&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travishock3&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </div>
 
 ---
@@ -62,7 +62,7 @@
 > A beautiful 3D view of my commits!
 
 <p align="center">
-  <a href="https://skyline.github.com/danielrdgz097/2024" target="_blank">
+  <a href="https://skyline.github.com/travishock3/2024" target="_blank">
     <img src="https://raw.githubusercontent.com/2024skyline/github-skyline/master/media/skyline-preview.gif" width="400" />
   </a>
 </p>
